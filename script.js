@@ -52,7 +52,7 @@ var images = [
     'image2.webp',
     'image3.webp',
     'image4.webp',
-    'image5.webp'
+    'image5.gif'
 
 ];
 
